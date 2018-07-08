@@ -1,7 +1,14 @@
-.btn {
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
 
+.btn {
+    border: none;
+    padding: 1em 0.5em;
+    border-radius: 3px;
 }
 
 .btn.default {
-
+    background-color: hsl(0, 0%, 90%);
 }
